@@ -8,4 +8,4 @@ version = "2.0.0"
 description = "领地"
 
 [project.entry-points."endstone"]
-ye111566-land = "endstone_land:ClaimChunk"
+claim_chunk = "endstone_land:ClaimChunk"
